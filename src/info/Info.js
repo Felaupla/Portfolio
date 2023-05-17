@@ -1,7 +1,7 @@
 import self from "../img/self.png";
 import mock1 from "../img/mock1.png";
 import mock2 from "../img/mock2.png";
-
+import mock3 from "../img/mock3.png";
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
 
@@ -29,12 +29,12 @@ export const info = {
   miniBio: [
     // these are just some "tidbits" about yourself. You can look at mine https://paytonjewell.github.io/#/ for an example if you'd like
     {
-      emoji: "☕",
-      text: "fueled by coffee",
+      emoji: "👨🏻‍💻",
+      text: "Team player, adaptable, flexible, resilient and passionate about coding",
     },
     {
       emoji: "🌎",
-      text: "based in Argentina",
+      text: "Based in Argentina",
     },
     {
       emoji: "💼",
@@ -116,6 +116,12 @@ export const info = {
       live: "https://mangiare.vercel.app/",
       source: "https://github.com/Felaupla",
       image: mock2,
+    },
+    {
+      title: "Credit Card Validator",
+      live: "https://validate-credit-card.vercel.app/",
+      source: "https://github.com/Felaupla/ValidateCreditCard",
+      image: mock3,
     },
   ],
 };

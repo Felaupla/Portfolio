@@ -62,7 +62,7 @@ export default function BaseLayout() {
                 Felipe Planes
               </a>
             </p>
-            <p>&copy; 2023</p>
+            <p>2023</p>
           </Box>
         </Grid>
       </Grid>
