@@ -92,6 +92,10 @@ export const info = {
       emoji: "👨‍👩‍👦",
     },
     {
+      label: "Cycles",
+      emoji: "🚴​",
+    },
+    {
       label: "Motor sports",
       emoji: "🏎️",
     },
@@ -106,6 +110,12 @@ export const info = {
   portfolio: [
     // This is where your portfolio projects will be detailed
     {
+      title: "Credit Card & CBU Validator",
+      live: "https://credit-card-validator.vercel.app/",
+      source: "https://github.com/Felaupla/ValidateCreditCard",
+      image: mock3,
+    },
+    {
       title: "Dogs Project",
       live: "https://dogsproject.vercel.app", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
       source: "https://github.com/Felaupla/DogsProject", // this should be a link to the **repository** of the project, where the code is hosted.
@@ -116,12 +126,6 @@ export const info = {
       live: "https://mangiare.vercel.app/",
       source: "https://github.com/Felaupla",
       image: mock2,
-    },
-    {
-      title: "Credit Card Validator",
-      live: "https://validate-credit-card.vercel.app/",
-      source: "https://github.com/Felaupla/ValidateCreditCard",
-      image: mock3,
     },
   ],
 };
