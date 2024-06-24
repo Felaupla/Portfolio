@@ -111,7 +111,7 @@ export const info = {
     // This is where your portfolio projects will be detailed
     {
       title: "Credit Card & CBU Validator",
-      live: "https://credit-card-validator.vercel.app/",
+      live: "https://card-cbu-validator.vercel.app/",
       source: "https://github.com/Felaupla/ValidateCreditCard",
       image: mock3,
     },
